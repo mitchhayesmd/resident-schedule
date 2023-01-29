@@ -21,7 +21,7 @@ There are three main rotations to consider in the pool (OHSU, VA, peds). The tim
       d. PGY5s have two separate 4 month rotations on OHSU, and one 4 month rotation on VA. 
 
 There are multiple constraints: 
-  1. No resident can take vacation at the same time with one exception: 
+  1. No two residents can take vacation at the same time with one exception: 
       a. PGY5 ('chief' residents) have the option to use the last week in June for vacation, even if the other chiefs are also gone. 
   2. Vacation weeks must be distributed evenly amongst the three services (proportional to the total resident-months owned by the service). 
       a. There are 4 full time residents on the OHSU service, 3 full time residents on the VA service, and 2 full time residents on the peds service.
